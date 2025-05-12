@@ -1,111 +1,24 @@
----
-layout: default
-title: "Full Markdown Blog Post (No Code)"
----
+______________________________________________________________________
 
-# Full Markdown Blog Post
+## layout: default title: "Home Page"
 
-A complete Markdown blog post without code blocks.
+# XezorWrites
 
----
+Hi! Xezor Here.
+Here I Publish my writings about Art, Tech, History, Philosophy and opinions, anecdotes & reviews. It also serves as a place for my "Proof of Work" i.e Projects, Projects, and Side Projects.
 
-## Headers
+______________________________________________________________________
 
-# H1 - Title  
-## H2 - Subtitle  
-### H3 - Section Title  
-#### H4 - Subsection  
-##### H5  
-###### H6
+# Blogs
 
----
+_Sorry! Stay Tuned for my writings._
 
-## Lists
+______________________________________________________________________
 
-### Unordered List
+# Projects
 
-- First item  
-- Second item  
-  - Nested item  
-    - Deeply nested  
+_None Yet!_
 
-### Ordered List
+______________________________________________________________________
 
-1. First step  
-2. Second step  
-   1. Sub-step  
-   2. Another sub-step  
-3. Final step  
-
----
-
-## Task List
-
-- [x] Write content  
-- [ ] Review post  
-- [ ] Publish  
-
----
-
-## Quote
-
-> Markdown is a lightweight markup language for creating formatted text.
-
----
-
-## Table
-
-| Feature     | Supported |
-|-------------|-----------|
-| Headers     | ✅        |
-| Lists       | ✅        |
-| Math        | ✅        |
-| Images      | ✅        |
-
----
-
-## Math
-
-Inline math: $a^2 + b^2 = c^2$
-
-Block math:
-
-$$
-\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
-$$
-
----
-
-## Image
-
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
----
-
-## Link
-
-Visit [GitHub Pages](https://pages.github.com) to publish your site.
-
----
-
-## Horizontal Rule
-
----
-
-## Bold, Italic, Strikethrough
-
-**Bold text**  
-*Italic text*  
-~~Strikethrough~~
-
----
-
-## Emoji
-
-🎉 📝 🚀 💡 ✔️
-
----
-
-## Final Note
-
-Thanks for reading!
+_2025-05-12 10:54_
